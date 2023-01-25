@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Sign-in Button Colors -->
+
+    <color name="splash_bg">#0A2846</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="main_bg">#E0EFFA</color>
+    <color name="one_tap_color">#A9BFD9</color>
+    <color name="gray">#95989A</color>
+	<color name="app_theme">#87ACDB</color>
+	<color name="pop_up_bg">#E7E7E7</color>
+	<color name="divider">#A2A2A2</color>
+	<color name="blue_txt">#437EC0</color>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:oneshot="false">
+<item android:drawable="@drawable/confetti0" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti12" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti24" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti36" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti48" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti60" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti72" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti84" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti96" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti108" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti120" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti132" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti144" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti156" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti168" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti180" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti192" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti204" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti216" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti228" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti240" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti252" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti264" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti276" android:duration="100" />
+
+
+
+<item android:drawable="@drawable/confetti288" android:duration="130" />
+
+
+
+</animation-list>

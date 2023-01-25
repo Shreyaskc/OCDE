@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kindness</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="single">SINGLE</string>
+    <string name="multiple">MULTIPLE</string>
+    <string name="one_tap_one_act">1 TAP = 1 ACT</string>
+    <string name="learn_more">Learn more about #kindness1billion</string>
+    <string name="thanks">THANKS!</string>
+    <string name="share_your_story">SHARE YOUR STORY</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">Cancel</string>
+    <string name="share_your_story_running">Share</string>
+    <string name="send">Send</string>
+    <string name="share_text">Share text...</string>
+    <string name="name">Name</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="email">Email</string>
+    <string name="crash_toast_text">App crashed! Reporting the development team.</string>
+    <string name="location">Location</string>
+    <string name="info">One Billion Acts of Kindness is an initiative created by the Orange County Department of Education and Orange County Superintendent of Schools Dr. Al Mijares to improve school climates, promote character and rally the community for greater civility. As the name suggests, the long-term goal is to register one billion good deeds. For more information, visit www.kindness1billion.org, and don’t forget to share your kind acts on social media using the hashtag #kindness1billion.</string>
+ <string name="url">www.kindness1billion.org</string>
+</resources>
